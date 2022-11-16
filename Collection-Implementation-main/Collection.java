@@ -7,9 +7,6 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/*
- * @author M Naufal Ihza S
- */
 
 public class Collection {
 
